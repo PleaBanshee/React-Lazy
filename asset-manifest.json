@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Lazy/static/css/main.416519bc.chunk.css",
+    "main.js": "/React-Lazy/static/js/main.7d41ebc6.chunk.js",
+    "main.js.map": "/React-Lazy/static/js/main.7d41ebc6.chunk.js.map",
+    "runtime-main.js": "/React-Lazy/static/js/runtime-main.0db6c840.js",
+    "runtime-main.js.map": "/React-Lazy/static/js/runtime-main.0db6c840.js.map",
+    "static/js/2.47d51230.chunk.js": "/React-Lazy/static/js/2.47d51230.chunk.js",
+    "static/js/2.47d51230.chunk.js.map": "/React-Lazy/static/js/2.47d51230.chunk.js.map",
+    "static/js/3.806914f0.chunk.js": "/React-Lazy/static/js/3.806914f0.chunk.js",
+    "static/js/3.806914f0.chunk.js.map": "/React-Lazy/static/js/3.806914f0.chunk.js.map",
+    "static/js/4.f8346cfc.chunk.js": "/React-Lazy/static/js/4.f8346cfc.chunk.js",
+    "static/js/4.f8346cfc.chunk.js.map": "/React-Lazy/static/js/4.f8346cfc.chunk.js.map",
+    "index.html": "/React-Lazy/index.html",
+    "static/css/main.416519bc.chunk.css.map": "/React-Lazy/static/css/main.416519bc.chunk.css.map",
+    "static/js/2.47d51230.chunk.js.LICENSE.txt": "/React-Lazy/static/js/2.47d51230.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/React-Lazy/static/media/logo.2d27ead7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0db6c840.js",
+    "static/js/2.47d51230.chunk.js",
+    "static/css/main.416519bc.chunk.css",
+    "static/js/main.7d41ebc6.chunk.js"
+  ]
+}
